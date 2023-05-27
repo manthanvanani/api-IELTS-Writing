@@ -1,19 +1,31 @@
 var express = require('express');
-var logger = require('morgan');
+// var logger = require('morgan');
 var dotenv = require("dotenv")
 dotenv.config();
+var MONGODB_URL = process.env.MONGODB_URL; // DB connection
 
-var database = require('./Database/Database.js');
+var mongoose = require("mongoose");
+mongoose.connect(MONGODB_URL, { useNewUrlParser: true, useUnifiedTopology: true }).then(() => {
+    if (process.env.NODE_ENV !== "final") { //don't show the log when it is test
+        console.log("Connected to %s", MONGODB_URL);
+        console.log("port:", process.env.PORT);
+        console.log("App is running ... \n");
+        console.log("Press CTRL + C to stop the process. \n");
+    }
+}).catch(err => { console.error("App starting error:", err.message), process.exit(1); });
+
+
 var controller = require('./Controller/AcademicTraining.js')
 var AcademicTrainingModel = require('./Model/AcademicTraining.js')
+var router = require('./Router/router.js')
 var app = express();
-app.use(logger('dev'));
+// app.use(logger('dev'));
 app.use(express.json());
 
 
 app.get('/welcome', (req, res) => {
 
-    res.sendStatus(200).json({
+    res.json({
         status: true,
         message: "success.",
         data: 'data',
@@ -24,33 +36,36 @@ app.get('/welcome', (req, res) => {
 app.get('/1', (req, res) => {
     res.setHeader('Content-Type', 'application/json');
 
-    res.sendStatus(200).json({
+    res.json({
         status: true,
         message: "success.",
         data: 'data',
         error: null
     });
 })
-app.get('/api', async(req, res) => {
-    // try {
-    var data = await AcademicTrainingModel.find()
-    console.log('AcademicTrainingModel', data.length);
-    return res.sendStatus(200).json({
-        status: true,
-        message: "success.",
-        data: data,
-        error: null
-    });
-    // } catch (error) {
-    //     console.log('ERROR-----', error.message);
-    //     return res.sendStatus(200).json({
-    //         status: false,
-    //         message: error.message,
-    //         data: null,
-    //         error: error
-    //     });
-    // }
-});
+
+app.use('/api', router)
+
+// app.get('/api', async(req, res) => {
+//     try {
+//         var data = await AcademicTrainingModel.find()
+//         console.log('AcademicTrainingModel', data.length);
+//         return res.json({
+//             status: true,
+//             message: "success.",
+//             data: data,
+//             error: null
+//         });
+//     } catch (error) {
+//         console.log('ERROR-----', error.message);
+//         return res.json({
+//             status: false,
+//             message: error.message,
+//             data: null,
+//             error: error
+//         });
+//     }
+// });
 
 // catch 404 and forward to error handler
 // app.use('/', function(req, res) {
