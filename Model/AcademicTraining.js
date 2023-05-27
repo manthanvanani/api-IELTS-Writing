@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 var ObjectId = Schema.ObjectId;
 var AcademicTrainingModel = new Schema({
-    t_id: { type: String, required: true},
+    t_id: { type: String, required: true },
     que: { type: String, required: true },
     image_url: { type: String, required: false },
     ans: { type: String, required: false },
