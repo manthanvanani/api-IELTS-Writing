@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: false }));
 var routerAcademicTraining = require('./Router/AcademicTraining.js')
 
 app.get('/welcome', (req, res) =>{
-    res.send('HI')
+    res.send('HI 123')
 })
 app.get('/', routerAcademicTraining);
 
