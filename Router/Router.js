@@ -1,0 +1,17 @@
+var express = require('express');
+var router = express.Router();
+var controllerAcademicTraining = require('..//Controller/AcademicTraining.js')
+var controllerGeneralTraining = require('..//Controller/GeneralTraining.js')
+var controllerEssayList = require('..//Controller/EssayList.js')
+var controllerSpeaking = require('..//Controller/Speaking.js')
+
+router.get('/welcome', function(req, res) {
+    res.send('vv')
+  });
+
+router.get('/writing/task_1/a_t', controllerAcademicTraining.getAll);
+router.get('/writing/task_1/g_t', controllerGeneralTraining.getAll);
+router.get('/writing/task_2/essay', controllerEssayList.getAll);
+router.get('/speaking/speaking', controllerSpeaking.getAll);
+
+module.exports = router;

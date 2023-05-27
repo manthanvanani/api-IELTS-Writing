@@ -17,7 +17,7 @@ mongoose.connect(MONGODB_URL, { useNewUrlParser: true, useUnifiedTopology: true 
 
 var controller = require('./Controller/AcademicTraining.js')
 var AcademicTrainingModel = require('./Model/AcademicTraining.js')
-var router = require('./Router/router.js')
+var router = require('./Router/Router.js')
 var app = express();
 // app.use(logger('dev'));
 app.use(express.json());
@@ -33,16 +33,6 @@ app.get('/welcome', (req, res) => {
     });
 })
 
-app.get('/1', (req, res) => {
-    res.setHeader('Content-Type', 'application/json');
-
-    res.json({
-        status: true,
-        message: "success.",
-        data: 'data',
-        error: null
-    });
-})
 
 app.use('/api', router)
 
