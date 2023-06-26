@@ -21,6 +21,7 @@ var router = require('./Router/Router.js')
 var app = express();
 // app.use(logger('dev'));
 app.use(express.json());
+app.use(express.static('Public'))
 
 
 app.get('/welcome', (req, res) => {
