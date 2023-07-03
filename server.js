@@ -23,6 +23,15 @@ var app = express();
 app.use(express.json());
 app.use(express.static('Public'))
 
+  
+
+  var bodyParser = require('body-parser');
+
+// configure the app to use bodyParser()
+app.use(bodyParser.urlencoded({
+    extended: true
+  }));
+app.use(bodyParser.json());
 
 app.get('/welcome', (req, res) => {
 

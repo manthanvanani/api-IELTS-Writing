@@ -26,6 +26,7 @@ exports.getAll = [
 exports.set = [
   async (req, res) => {
     try {
+       
       var fcm_token = req.body.fcm_token ?? "";
       var identifierForVendor = req.body.identifierForVendor ?? "";
       var systemVersion = req.body.systemVersion ?? "";
@@ -39,7 +40,6 @@ exports.set = [
         'bundleIdentifier': bundleIdentifier,
         'regionCode': regionCode,
       }
-      console.log(data);
     var query = { 'identifierForVendor' : identifierForVendor },
     update = data,
     options = { upsert: true, new: true, setDefaultsOnInsert: true };
