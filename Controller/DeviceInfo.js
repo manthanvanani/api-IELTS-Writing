@@ -49,9 +49,9 @@ exports.set = [
         var _update = await DeviceInfoModel.updateOne(query, data, { upsert: true, new: true, setDefaultsOnInsert: true})        
         return res.json({
             status: _update.acknowledged,
-            message: error.message,
+            message: 'Update',
             data: null,
-            error: error,
+            error: null,
           });
     }else{
         var _result = await DeviceInfoModel(data).save()
