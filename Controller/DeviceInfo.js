@@ -33,12 +33,13 @@ exports.set = [
       var regionCode = req.body.regionCode ?? "";
 
       var data = {
-        fcm_token: fcm_token,
-        identifierForVendor: identifierForVendor,
-        systemVersion: systemVersion,
-        bundleIdentifier: bundleIdentifier,
-        regionCode: regionCode,
+        'fcm_token': fcm_token,
+        'identifierForVendor': identifierForVendor,
+        'systemVersion': systemVersion,
+        'bundleIdentifier': bundleIdentifier,
+        'regionCode': regionCode,
       }
+      console.log(data);
     var query = { 'identifierForVendor' : identifierForVendor },
     update = data,
     options = { upsert: true, new: true, setDefaultsOnInsert: true };
