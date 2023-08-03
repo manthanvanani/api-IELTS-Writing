@@ -11,6 +11,7 @@ var fcm = new FCM(serverKey);
 var token = [
   "f8lMxIT2o0iCl13WaNWjV4:APA91bFi6r1DN-IxuXiXGwpKlO_IkC9b6vVsT98ceivirsjRJxRnkXJf25iQ3UBATVHqJ2fuivMz9WKWMltJWq5NJ-9iPgDKyDpr3fiDETDqXYvfdoDo3dnUsxCYiNLJNfd__dQJU5Nu",
 ];
+
 var messages = [
   "“Believe you can and you’re halfway there.”",
   "“It always seems impossible until it’s done.”",
