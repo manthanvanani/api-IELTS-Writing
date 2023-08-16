@@ -27,14 +27,14 @@ var messages = [
   "“In order to succeed, we must first believe that we can.”",
 ];
 
- sendNotification();
+// sendNotification();
 
-var cron = require("node-cron");
+// var cron = require("node-cron");
 
-cron.schedule("*/59 * * * *", () => {
-  console.log("running a task every minute");
-  sendNotification();
-});
+// cron.schedule("*/59 * * * *", () => {
+//   console.log("running a task every minute");
+//   sendNotification();
+// });
 
 var mongoose = require("mongoose");
 mongoose
