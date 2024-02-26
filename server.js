@@ -2,6 +2,7 @@ var express = require("express");
 // var logger = require('morgan');
 var dotenv = require("dotenv");
 dotenv.config();
+var PORT = 4040;
 var MONGODB_URL = `mongodb+srv://vanani:Vanani9442@cluster0.qvuuv.mongodb.net/`; // DB connection
 var DeviceInfoModel = require("./Model/DeviceInfoModel");
 var FCM = require("fcm-node");
@@ -42,7 +43,7 @@ mongoose
     if (process.env.NODE_ENV !== "final") {
       //don't show the log when it is test
       console.log("Connected to %s", MONGODB_URL);
-      console.log("port:", process.env.PORT);
+      console.log("port:", PORT);
       console.log("App is running ... \n");
       console.log("Press CTRL + C to stop the process. \n");
     }
@@ -108,8 +109,8 @@ app.use("/api", router);
 //     });
 // });
 
-app.listen(process.env.PORT, (req, res) => {
-  console.log(`Hello world app listening on port ${process.env.PORT}!`);
+app.listen(PORT, (req, res) => {
+  console.log(`Hello world app listening on port ${PORT}!`);
 });
 
 module.exports = app;
@@ -118,7 +119,7 @@ async function sendNotification() {
 
   var data = await DeviceInfoModel.find({
     fcm_token: { $exists: true },
-    $expr: { $gt: [{ $strLenCP: '$fcm_token' }, 40] }
+    // $expr: { $gt: [{ $strLenCP: '$fcm_token' }, 40port]}
   }).select('fcm_token');
   var token = data.flatMap((element) => { return element.fcm_token })
   data = new Set(data)
