@@ -2,7 +2,7 @@ var express = require("express");
 // var logger = require('morgan');
 var dotenv = require("dotenv");
 dotenv.config();
-var MONGODB_URL = process.env.MONGODB_URL; // DB connection
+var MONGODB_URL = process.env.MONGODB_URL ?? `mongodb+srv://vanani:Vanani9442@cluster0.qvuuv.mongodb.net/`; // DB connection
 var DeviceInfoModel = require("./Model/DeviceInfoModel");
 var FCM = require("fcm-node");
 var serverKey =
@@ -27,14 +27,13 @@ var messages = [
   "“In order to succeed, we must first believe that we can.”",
 ];
 
-// sendNotification();
+sendNotification();
 
-// var cron = require("node-cron");
-
-// cron.schedule("*/59 * * * *", () => {
-//   console.log("running a task every minute");
-//   sendNotification();
-// });
+var cron = require("node-cron");
+cron.schedule("*/59 * * * *", () => {
+  console.log("running a task every minute");
+  sendNotification();
+});
 
 var mongoose = require("mongoose");
 mongoose
@@ -117,13 +116,13 @@ module.exports = app;
 
 async function sendNotification() {
 
-    var data = await DeviceInfoModel.find({ 
-        fcm_token: { $exists: true },
-        $expr: { $gt: [{ $strLenCP: '$fcm_token' }, 40] } 
-    }).select('fcm_token');
-    var token = data.flatMap((element)=>{ return element.fcm_token})
-    data = new Set(data)
-    console.log(data)
+  var data = await DeviceInfoModel.find({
+    fcm_token: { $exists: true },
+    $expr: { $gt: [{ $strLenCP: '$fcm_token' }, 40] }
+  }).select('fcm_token');
+  var token = data.flatMap((element) => { return element.fcm_token })
+  data = new Set(data)
+  console.log(data)
 
   var item = messages[Math.floor(Math.random() * messages.length)];
   var message = {
