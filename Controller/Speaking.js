@@ -4,7 +4,7 @@ exports.getAll = [
     async(req, res) => {
         try {
             console.log('a')
-            var data = await SpeakingModel.find()
+            var data = await SpeakingModel.find({})
             console.log('SpeakingModel', data.length);
             return res.json({
                 status: true,

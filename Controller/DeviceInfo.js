@@ -4,7 +4,7 @@ exports.getAll = [
   async (req, res) => {
     try {
       console.log("a");
-      var data = await DeviceInfoModel.find();
+      var data = await DeviceInfoModel.find({});
       return res.json({
         status: true,
         message: "success.",

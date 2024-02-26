@@ -3,7 +3,7 @@ var express = require("express");
 var dotenv = require("dotenv");
 dotenv.config();
 var PORT = 4040;
-var MONGODB_URL = `mongodb+srv://vanani:Vanani9442@cluster0.qvuuv.mongodb.net/`; // DB connection
+var MONGODB_URL = `mongodb+srv://vanani:Vanani9442@cluster0.qvuuv.mongodb.net/ielts_writing`; // DB connection
 var DeviceInfoModel = require("./Model/DeviceInfoModel");
 var FCM = require("fcm-node");
 var serverKey =
@@ -83,7 +83,7 @@ app.use("/api", router);
 
 // app.get('/api', async(req, res) => {
 //     try {
-//         var data = await AcademicTrainingModel.find()
+//         var data = await AcademicTrainingModel.find({})
 //         console.log('AcademicTrainingModel', data.length);
 //         return res.json({
 //             status: true,

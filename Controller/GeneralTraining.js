@@ -4,7 +4,7 @@ exports.getAll = [
     async(req, res) => {
         try {
             console.log('a')
-            var data = await GeneralTrainingModel.find()
+            var data = await GeneralTrainingModel.find({})
             console.log('GeneralTrainingModel', data.length);
             return res.json({
                 status: true,

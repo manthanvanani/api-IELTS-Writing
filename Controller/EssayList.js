@@ -4,7 +4,7 @@ exports.getAll = [
     async(req, res) => {
         try {
             console.log('a')
-            var data = await EssayListModel.find()
+            var data = await EssayListModel.find({})
             console.log('EssayListModel', data.length);
             return res.json({
                 status: true,
