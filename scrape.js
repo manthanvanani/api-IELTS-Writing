@@ -1,4 +1,3 @@
-const { error } = require("console");
 var request = require("request");
 
 var filePath = `./Raw/6Band.json`;
