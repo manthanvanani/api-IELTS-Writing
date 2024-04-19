@@ -116,14 +116,15 @@ app.listen(PORT, (req, res) => {
 module.exports = app;
 
 async function sendNotification() {
-
   var data = await DeviceInfoModel.find({
     fcm_token: { $exists: true },
     // $expr: { $gt: [{ $strLenCP: '$fcm_token' }, 40port]}
-  }).select('fcm_token');
-  var token = data.flatMap((element) => { return element.fcm_token })
-  data = new Set(data)
-  console.log(data)
+  }).select("fcm_token");
+  var token = data.flatMap((element) => {
+    return element.fcm_token;
+  });
+  data = new Set(data);
+  console.log(data);
 
   var item = messages[Math.floor(Math.random() * messages.length)];
   var message = {

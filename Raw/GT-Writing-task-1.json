@@ -1,0 +1,542 @@
+{
+  "pageProps": {
+    "data": [
+      {
+        "_id": "618f2c41b33be94585cec490",
+        "question": "You have been working in a company for the last two years. Recently, your computer in the office has started giving some problems and it is affecting your work performance.\r\n\r\nWrite a letter to your manager. In your letter,\r\n\r\ndescribe the problem\r\n\r\nexplain how it is affecting your work\r\n\r\nwrite what you want him to do regarding it\r\n\r\nWrite at least 150 words.\r\n\r\nYou do NOT need to write any addresses.\r\n\r\nBegin your letter as follows:",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "company/two/years/computer/office/work/performance/manager/addresses",
+        "verified": false,
+        "image": {},
+        "active": true
+      },
+      {
+        "_id": "615836a7b33be94585805c20",
+        "question": "Write a letter to the charity event\nExplain the situation",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "charity/event/situation",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "644dd9b008e9087902fc8c52",
+        "slug": "job/offer/country/lives/childhood/friend/event/life/accommodation/addresses",
+        "__v": 0,
+        "image": {},
+        "question": "You have received a job offer from a country where lives one of your childhood friend. Write a letter to him:\r\n\r\n• Tell about this happy event in your life;\r\n\r\n• Ask him for help finding accommodation;\r\n\r\n• Ask him to advise the best ways to get prepared for the new life in that country\r\n\r\nWrite at least 150 words.\r\n\r\nYou do NOT need to write any addresses.\r\n\r\nBegin your letter as follows:\r\n\r\nDear ....,",
+        "task": "letter",
+        "type": "semi-formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6461a03008e9087902f0e51b",
+        "slug": "goods/shop/town/home/manager/questions/cost/goo",
+        "__v": 0,
+        "image": {},
+        "question": "You would like to buy some electrical goods at a shop in a town which is far from your home.Write a letter to the manager of the shop. In your letter:\r\n\r\nsay which electrical goods you want\r\n\r\nask questions about the cost of the goods and how to pay\r\n\r\nexplain how you will collect the goo",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "62b528b008e9087902717c1a",
+        "question": "You have recently finished a course and would like to give some feedback to the course organiser.  Write a letter to he college where you took the course. In your letter\r\n\r\n \r\n\r\nexplain what the course was\r\n\r\nsay what you enjoyed about the course\r\n\r\nsuggest how the course could be improved",
+        "__v": 0,
+        "slug": "course/feedback/organiser/college",
+        "task": "letter",
+        "type": "semi-formal",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "63f6d6b008e9087902fb55dc",
+        "slug": "hotel/business/trip/service/complaint/manager/action",
+        "__v": 0,
+        "image": {},
+        "question": "You recently stayed in a hotel during a business trip. The service was not good and this affected your stay. You want to make a complaint. Write a letter to the hotel manager. In the letter: • Say what was wrong with the service at the hotel • Explain how it affected you during your stay • Suggest what action you would like to the hotel manager to take.",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "61fb453108e90879029e0611",
+        "question": "You work for an international company, and would like to spend six months working in its head office in another country. Write a letter to your manager. In your letter \n\n-explain why you want to work in the company's head office for six months \n\n-say how you work could be done while you are away\n\n-ask for his-her help in arranging it",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "work/company/six/months/head/office/country/manager/-explain/-say/-ask/his-her",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "648a7eb008e9087902f3eb09",
+        "slug": "machine/first/work/clothes/manager/company/reason/provider",
+        "__v": 0,
+        "image": {},
+        "question": "You have bought a washing machine. First you found that the machine did not work properly, and you had it changed. Then you found that the new one seriously entangled the clothes. Write to the manager of the company to complain about it. In your letter: - State your reason for writing, - Describe the problems, - Ask the provider to solve the problem",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "640fe33008e908790225be40",
+        "slug": "friend/birthday/party/absence/reason/time",
+        "__v": 0,
+        "image": {},
+        "question": "Your friend invited you to his /her birthday party but you are unable to attend. Write a letter apologizing for your absence.\r\n\r\nState why you cannot go.\r\n\r\nExplain the reason for not contacting you friend sooner.\r\n\r\nSuggest another time to meet.",
+        "task": "letter",
+        "type": "informal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6158374fb33be945858077a5",
+        "question": "You have reccently moved to another city but your bank has your old address and continues to send all the communication there. Write a letter to your bank Branch.\r\nIn this letter mention:\r\nWhere you have moved ?Mumbai\r\nWhat problem are you facing regarding the bank's communication?\r\nBill generation \r\nWhat do you want them to do regarding old communication already sent to the wrong address",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "city/bank/address/communication/branch/mumbai/bill/generation",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "63abb13008e9087902a0e309",
+        "question": "You rent a house through an agency. The heating system has stopped working. You phoned the agency a week ago but it still has not been repaired.\r\n\r\nwrite a letter to agency. Explain the situation and tell them what you want them to do about it.",
+        "__v": 0,
+        "slug": "rent/house/agency/system/week/situation",
+        "task": "letter",
+        "type": "formal",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "632fc43008e908790216d9cb",
+        "question": "last year you attended an intensive English course at the Darwin College of English . Your new employer has asked you to provide copies of your reports and assignments as quickly as possible .\r\n\nWrite a letter to the principal of the college and request him to send the copies of the required documents As you have lost the original  documents.",
+        "__v": 0,
+        "slug": "year/english/course/darwin/college/employer/copies/reports/assignments/request/documents",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "639001b008e90879022a36a1",
+        "question": "Write a letter to a hotel manager in another city for an upcoming 2 days business trip for you and your colleagues. In your letter you should tell \n- Introduce yourself and colleagues\n- give information about the business meeting\n- tell other requests you might have",
+        "__v": 0,
+        "slug": "hotel/manager/city/business/trip/colleagues/information/requests",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "63d33e3108e90879024285c2",
+        "slug": "computers/computer/course/interests/people/college/enrolment/officer/circumstances/exception/enrol/addresses/sir",
+        "__v": 0,
+        "question": "Although you have never formally studied computing, you have always been interested in computers. You have just read about a computer course that really interests you, but it is only for people who have completed an elementary course.\r\n\r\nWrite a letter to the college enrolment officer. In your letter\r\n\r\nexplain why you are writing\r\n\r\ndescribe your circumstances\r\n\r\nask if a special exception can be made for you so you can enrol in the course\r\n\r\nYou do NOT need to write any addresses.\r\n\r\nBegin your letter as follows:\r\n\r\nDear sir,",
+        "task": "letter",
+        "type": "semi-formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "649f96b008e908790212feec",
+        "slug": "friend/place/course/university/adivce/accommodation/mistakes/students",
+        "__v": 0,
+        "image": {},
+        "question": "Your friend has been offered a place on a course at the university where you studied. They would like your adivce about finding a place to live.\r\n\r\nWrite an letter to your friend. In your letter:\r\n\r\ndescribe where you lived \r\n\r\nrecommend the best way to look for accommodation \r\n\r\nwarn them of mistakes students make",
+        "task": "letter",
+        "type": "informal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6325383008e90879023bd05a",
+        "question": "You and a friend recently went on a holiday together. there is a problem with photos you have taken during the holiday. \r\n\r\nWrite a letter to your friend to ask for a particular shot \r\n\r\nin your letter explain \r\n\r\n. what the problem is with your photos \r\n\r\n. say which photo you would like him or her to send you \r\n\r\n. explain why you need this Photo.",
+        "__v": 0,
+        "slug": "friend/holiday/photos/shot/photo",
+        "task": "letter",
+        "type": "informal",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "63993c3008e9087902a59aaa",
+        "question": "A friend from abroad is visiting your country next month. she is planning to stay with you, but you can not accomodate her.\nwrite a letter to her\ntell her the reasons\napologise\nmake alternative arrangements",
+        "__v": 0,
+        "slug": "friend/country/month/apologise/alternative/arrangements",
+        "task": "letter",
+        "type": "informal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "64d452b008e9087902ffadb9",
+        "slug": "mrs/barret/woman/lives/town/someone/home/hours/summer/work",
+        "__v": 0,
+        "image": {},
+        "question": "Mrs Barret, an English-speaking woman who lives in your town, has advertised fro someone to help her in her home for a few hours a day next summer. \r\n\r\nWrite a letter to Mrs Barret. In your letter\r\n\r\n- Suggest how you could help her in her home\r\n\r\n- Say why you would liek to do this work\r\n\r\n- Explain when you will and will not be available",
+        "task": "letter",
+        "type": "semi-formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "62f9b6b008e908790258bba7",
+        "question": "You have just rented an unfurnished flat and a friend has told you that the opportunity to shop in the shopping center has cheap second-hand furniture.\nWrite to the shop owner describing what you need and asking whether they have these items and what they cost",
+        "__v": 0,
+        "slug": "friend/opportunity/shop/center/furniture/owner/items/cost",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "615835ddb33be94585803df3",
+        "question": "You have received a letter from your bank, asking you to acknowledge receipt of a new bank card. However, the card was missing from the envelope.\r\n\r\nWrite a letter to the bank's head office. In your letter:\r\n\r\nexplain why you are writing\r\n\r\nexpress concern about the missing card\r\n\r\nask them what they intend to do\r\n\r\nWrite at least 150 words.\r\n\r\nYou do NOT need to write any address.\r\n\r\nBegin your letter as follows:\r\n\r\nDear __________",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "bank/receipt/card/envelope/head/office/concern/address/__________",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "65e2962939714a001162bd72",
+        "verified": false,
+        "active": true,
+        "slug": "two/tickets/concert/friend/•give/•describe/•explain/youʼve",
+        "question": "You have just won two tickets to a concert and want to invite your friend to go with you. Write a letter to your friend. In the letter:\r\n\r\n•give details about the concert\r\n\r\n•describe how you won the tickets\r\n\r\n•explain why youʼve chosen your friend to go with you.",
+        "task": "letter",
+        "__v": 0,
+        "image": {},
+        "type": "informal"
+      },
+      {
+        "_id": "615836b0b33be94585805d72",
+        "question": "2019-12-07: Task 1\r\nYou went on a trip and found that the guide was really helpful. Write a letter to the tour company manager.\r\n\r\nIn your letter, you should:\r\n•\tdescribe the tour\r\n•\ttell what you liked about the tour guide\r\n•\trecommend manager ways/methods to appreciate the tour guide",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "trip/guide/tour/company/manager/methods",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "62c4fab008e908790292cb46",
+        "question": "Write a complaint letter to the airline manager regarding the behaviour of one of staff members on your. flight .In your letter\nGive full details of your flight\nSay what the problem with the staff member was \nWhat would you like the manager to do regarding this matter",
+        "__v": 0,
+        "slug": "complaint/airline/manager/behaviour/staff/members/flight/member/matter",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "615835b5b33be945858036df",
+        "question": "you have seen an advertisement of Australian magazines for someone to live with family in six-months and look after their six-years old child\nwrite a letter\n1-\tExplain why you would like this\n2-\tGive detail of why you are suitable person to employ\n3-\tSay how would you spend your free time while you are in Australia",
+        "__v": 0,
+        "task": "letter",
+        "type": "semi-formal",
+        "slug": "advertisement/australian/magazines/someone/six-months/six-years/child/detail/person/time/australia",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "649cf3b008e9087902f372d2",
+        "slug": "college/people/job/students/work/•explain/date/time/talk",
+        "__v": 0,
+        "image": {},
+        "question": "A local college wants people with a job to come and talk to students about what it is like to work. You would like to come forward and talk to the students about your job.\r\n\r\nWrite a letter to the principal of the college. In your letter,\r\n\r\n•explain what you would like to talk about\r\n\r\n•\tsay why students would be interested in your job\r\n\r\n•\tsuggest a possible date and time for the talk",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "62e741b008e908790299afe3",
+        "question": "You've seen an advertisement from a couple, who live in Australia, for someone to teach their children your language for a year. \r\n\r\nIn your letter, \r\n\r\n-Explain why you would be suitable for the job\r\n\r\n-say what else you could do for the family\r\n\r\n-give reasons for wanting the job.",
+        "__v": 0,
+        "slug": "ve/advertisement/couple/australia/someone/children/language/year/-explain/job/-say/-give",
+        "task": "letter",
+        "type": "semi-formal",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "641fb53008e9087902e9514e",
+        "slug": "holiday/quality/hotel/travel/agency/manager",
+        "__v": 0,
+        "image": {},
+        "question": "You have just returned from a holiday. You are unhappy with the quality of the hotel you stayed in and want to complain to the travel agency that arranged the holiday.\r\n\r\nWrite a letter to the manager of the travel agency. In your letter,\r\n\r\nsay about the holiday and where you stayed \r\n\r\nmention why you are unhappy about the hotel where you stayed\r\n\r\nsay what you would like the travel agency to do",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "65714048e6f89f00112e99b4",
+        "verified": false,
+        "active": true,
+        "slug": "home/party/noise/neighbour/addresses/plans",
+        "question": "You have just moved into a new home and are planning to hold a party. You are worried that the noise may disturb your neighbour. Write a letter to your neighbour. You do NOT need to write any addresses. You should write at least 150 words. In your letter\r\n\r\nintroduce yourself\r\n\r\ndescribe your plans for the party \r\n\r\ninvite your neighbour to come",
+        "task": "letter",
+        "__v": 0,
+        "image": {},
+        "type": "semi-formal"
+      },
+      {
+        "_id": "6158370bb33be94585806cde",
+        "question": "You should spend about 20 minutes on this task.\r\n\r\nYou have been invited to attend an interview for a place studying a course in a college. Unfortunately, because of a previous appointment, you cannot come at the time they wish.\r\n\r\nWrite a letter to the admissions tutor:\r\n\r\nexplain your position\r\n\r\napologise and offer to come on another day or later the same day.\r\n\r\nask how long the interview will be and whether there will be any tests during it.",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "minutes/interview/place/course/college/appointment/time/admissions/tutor/position/apologise/offer/tests",
+        "verified": false,
+        "active": true,
+        "image": {}
+      },
+      {
+        "_id": "61583738b33be945858073fa",
+        "question": "ou have a full-time job and you are also doing a part-time evening course.\r\n\r\nYou now find that you cannot continue the course.\r\n\r\nWrite a letter to your teachers. In your letter\r\n\r\ndescribe the situation\r\n\r\nexplain why you cannot continue at this time\r\n\r\nsay what action you would like to take",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "ou/job/course/teachers/situation/time/action",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "61dba13408e90879023cf459",
+        "question": "You have been invited to attend an interview for a place studying a course in a college. Unfortunately, because of a previous appointment, you cannot come at the time they wish.\r\n\r\nWrite a letter to the admissions tutor:\r\n\r\nexplain your position\r\n\r\napologise and offer to come on another day or later the same day.\r\n\r\nask how long the interview will be and whether there will be any tests during it.",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "interview/place/course/college/appointment/time/admissions/tutor/position/apologise/offer/tests",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "645865b008e90879027f7bc2",
+        "slug": "minutes/company/place/hotel/feedback/participants/food/lunch/manager/•say/•explain/•suggest/future",
+        "__v": 0,
+        "image": {},
+        "question": "You should spend about 20 minutes on this task.\r\n\r\nYou recently organized an all-day meeting for your company, which took place in a local hotel. In their feedback, participants at the meeting said that they liked the hotel, but they were unhappy about the food that was served for lunch.\r\n\r\nWrite a letter to the manager of the hotel. In your letter:\r\n\r\n•say what the participants liked about the hotel\r\n\r\n•explain why they were unhappy about the food\r\n\r\n•suggest what the manager should do to improve the food in future\r\n\r\nWrite at least 150 words.",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6181fb34b33be94585991c20",
+        "question": "You recently ordered a small item online but when it arrived it was unusable.\r\n\r\nWrite a letter to the company that sold you the item. In the letter:\r\n\r\n give details about the order you made\r\n\r\n explain what was wrong with the item\r\n\r\n tell the company what you want them to do about it\r\n\r\nWrite at least 150 words.\r\n\r\nYou do NOT need to write any addresses.\r\n\r\nBegin your letter as follows:\r\n\r\nDear Sir or Madam",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "item/company/addresses/sir/madam",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "615835fdb33be94585804380",
+        "question": "You hired a car company, while. While you were driving you had a small accident. Write a letter to the company to explain it.\r\n\r\nWhen and where you hired it\r\n\r\nDescribe how the accident happened\r\n\r\nWhat kind of action did you take after the accident",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "car/company/accident/action",
+        "verified": false,
+        "active": true,
+        "image": {}
+      },
+      {
+        "_id": "6417cc3008e9087902824d39",
+        "slug": "boos/work/apologies",
+        "__v": 0,
+        "image": {},
+        "question": "Write a letter to your boos apologizing for the recent meeting you missed at work\r\n\r\nApologies for missing the meeting \r\n\r\nExplain what happened \r\n\r\nSay what you will do to compensate",
+        "task": "letter",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "655acbb04312c5c44b10af39",
+        "slug": "mrs/barreet/woman/lives/town/someone/home/hours/summer/work",
+        "__v": 0,
+        "image": {},
+        "question": "Mrs Barreet, an English-Speaking woman who lives in your town, has advertised for someone to help in her home for a few hours a day next summer\r\n\r\nWrite a letter to Mrs Barreet. In your letter\r\n\r\n1. Suggest how you could help her in her home\r\n\r\n2. Say why you would like to do this work\r\n\r\n3. Explain when you will and will not be available",
+        "task": "letter",
+        "type": "semi-formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "64e181b008e9087902cc31db",
+        "slug": "leg/colleagues/work/cards/manager/thanks/time/recovery/process",
+        "__v": 0,
+        "image": {},
+        "question": "You recently broke your leg and your colleagues from work sent you get well cards and presents. Write a letter to them and say \r\n\r\nWrite a letter to your manager. In your letter\r\n\r\n- Thanks them for supporting you\r\n\r\n- Describe how you spend your time\r\n\r\n- Explain about your recovery process",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6412863008e9087902471976",
+        "slug": "work/company/six/months/head/office/country/manager/•explain/company’s",
+        "__v": 0,
+        "image": {},
+        "question": "You work for an international company, and would like to spend six months working in its head office in another country.\r\n\r\nWrite a letter to your manager. In your letter:\r\n\r\n•explain why you want to work in the company’s head office for six months\r\n\r\n•\tsay how your work could be done while you are away\r\n\r\n•\task for his/her help in arranging it",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "632bcfb008e908790254facb",
+        "question": "You recently did a short cookery course. The cookery school has asked for your feedback on this course.\r\n\r\nWrite a letter to the course director at the cookery school. In your letter,\r\n\r\ndescribe what you enjoyed about the course\r\n\r\nsay how much cooking you've done since the course\r\n\r\nsuggest another cookery course you'd like the school to offer\r\n\r\nWrite at least 150 words.\r\n\r\nYou do NOT need to write any addresses.\r\n\r\nBegin your letter as follows:\r\n\r\nDear Sir or Madam,",
+        "__v": 0,
+        "slug": "cookery/course/school/feedback/director/ve/offer/addresses/sir/madam",
+        "task": "letter",
+        "type": "formal",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6534903008e908790277ae2d",
+        "slug": "cookery/course/school/feedback/director/•describe/ve/offer",
+        "__v": 0,
+        "image": {},
+        "question": "You recently did a short cookery course. The cookery school has asked for your feedback on this course.\r\n\r\nWrite a letter to the course director at the cookery school. In your letter,\r\n\r\n•describe what you enjoyed about the course\r\n\r\n•\tsay how much cooking you've done since the course\r\n\r\n•\tsuggest another cookery course you'd like the school to offer",
+        "task": "letter",
+        "type": "formal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "621ae93108e9087902447090",
+        "question": "You should spend about 20 minutes on this task.\r\n\r\nYou are studying for a qualification, and you would like some time off work to complete it.\r\n\r\nWrite a letter to your manager. In your letter:\r\n\r\nAsk for some time off to complete a qualification.\r\n\r\nSuggest what you will do later at work if you have time off.\r\n\r\nSay how the qualification helps your job or company.",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "minutes/qualification/time/work/manager/job/company",
+        "verified": false,
+        "active": true,
+        "image": {}
+      },
+      {
+        "_id": "61583592b33be94585802ffa",
+        "question": "You have just won two tickets to a concert and want to invite your friend to go with you. Write a letter to your friend. In this letter:\r\n\r\nGive details about the concert.\r\n\r\nDescribe how you won the tickets.\r\n\r\nExplain why you have chosen your friend to go with you.",
+        "__v": 0,
+        "task": "letter",
+        "type": "informal",
+        "slug": "two/tickets/concert/friend",
+        "verified": false,
+        "active": true,
+        "image": {}
+      },
+      {
+        "_id": "62621a3308e9087902f1fc9b",
+        "question": "your local council is considering closing a sport and leisure center that it runs in order to save money \n\n\nwrite a letter to the city council",
+        "__v": 0,
+        "task": "letter",
+        "type": "formal",
+        "slug": "council/sport/leisure/center/money/city",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "615835adb33be945858034d6",
+        "question": "Write an appointment letter  to a student who applied to do industrial training in your organization",
+        "__v": 0,
+        "task": "letter",
+        "type": "semi-formal",
+        "slug": "appointment/student/organization",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6476b83008e9087902015c55",
+        "slug": "friend/party/•tell/can’t/•explain/•arrange/time",
+        "__v": 0,
+        "image": {},
+        "question": "A friend has invited you to a party but you will not be able to attend. Write to your friend. In your letter \r\n\r\n•Tell your friend you can’t come \r\n\r\n•Explain why you are unable to attend \r\n\r\n•Arrange another time to meet",
+        "task": "letter",
+        "type": "informal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6569fb79b6098e00115ddb03",
+        "verified": false,
+        "active": true,
+        "slug": "furniture/retailer/delivery/installation/manager/store/praise/service",
+        "question": "You recently ordered furniture from an online retailer. The delivery and\r\n\r\ninstallation experience was very disappointing/ satisfying. Write a\r\n\r\nLetter to the manager of the online store to complain about/ praise the\r\n\r\nservice.\r\n\r\nIn your Letter:\r\n\r\nSay what you ordered\r\n\r\nExplain what happened/ describe the service\r\n\r\nTell the manager how you feel",
+        "task": "letter",
+        "__v": 0,
+        "image": {},
+        "type": "formal"
+      },
+      {
+        "_id": "61583758b33be945858078f7",
+        "question": "13. You recently assigned a contract of your home painting. The work is over  but you are not satisfied with quality of work. Write a letter to the  contractor for the same.  In your letter  • describe what you are not satisfied with  • say what you want the contractor to do and your action plan  • say what was good a bout the service",
+        "__v": 0,
+        "task": "letter",
+        "type": "semi-formal",
+        "slug": "contract/home/work/quality/contractor/action/plan/bout/service",
+        "image": {},
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "635f3a3008e9087902b952b3",
+        "question": "A friend of yours is coming to stay in your house for a week while you are away on holiday.\nWrite a letter to your friend to prepare them for their stay in your letter:\n\n\r\n\r\n\r\n-- Give your friend information about the location of your house\r\n\r\n-- Tell your friend what tasks you would like them to do each day\r\n\r\n-- Explain what he/she can do and see in your area",
+        "__v": 0,
+        "slug": "friend/house/week/holiday/--/information/location/tasks/area",
+        "task": "letter",
+        "type": "informal",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "65ab030617c4f900119a9b4a",
+        "verified": false,
+        "active": true,
+        "slug": "friend/writlen/job/country/company/sort/work",
+        "question": "A friend you made while you were studying abroad has writlen to ask you for help in finding a job in your country, You have heard about a job in a local company that might be suitable for him/her,\r\n\r\nWrite a letter to this friend, In your letter\r\n\r\ntell your friend about the job and what sort of work it involves\r\n\r\nsay why you think the job would be suitable for him/ her\r\n\r\nexplain how to apply for the job",
+        "task": "letter",
+        "__v": 0,
+        "image": {},
+        "type": "informal"
+      },
+      {
+        "_id": "621ae93308e9087902447102",
+        "question": "You should spend about 20 minutes on this task.\r\nYou have just moved into a new home and are planning to hold a party. You are worried that the noise may disturb your neighbour.\r\nWrite a letter to your neighbour. In your letter\r\nintroduce yourself\r\ndescribe your plans for the party\r\ninvite your neighbour to come",
+        "__v": 0,
+        "task": "letter",
+        "type": "semi-formal",
+        "slug": "minutes/home/party/noise/neighbour/plans",
+        "verified": false,
+        "active": true
+      }
+    ]
+  },
+  "__N_SSG": true
+}

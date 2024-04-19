@@ -1,0 +1,737 @@
+{
+  "pageProps": {
+    "data": [
+      {
+        "_id": "6493b93008e9087902728801",
+        "slug": "show/percentage/meals/three/nutrients/summarise/information/features/comparisons",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/9ce53b9430100db38e2893ae1167c186.png",
+          "width": 734,
+          "height": 375
+        },
+        "question": "The charts below show the average percentage in typical meals of three types of nutrients, all of which may be unhealthy if eaten too much.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "task": "chart",
+        "type": "pie",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "653c793008e9087902e977ec",
+        "slug": "maps/show/changes/place/meadowside/village/fonton/town",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/22c4502541947eee30ac2f214ce82422.png",
+          "width": 550,
+          "height": 819
+        },
+        "question": "The maps below show the changes that have taken place in Meadowside village and Fonton, a\r\n\r\nneighbouring town, since 1962.",
+        "task": "chart",
+        "type": "maps",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "63d78b1908e90879026f4acf",
+        "slug": "show/sale/five/kinds/jam",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/ad2c1fb42e97af9c6fa1d8533e4b3ac7.png",
+          "width": 773,
+          "height": 363
+        },
+        "question": "The charts show the sale of five different kinds of jam from 2009 to 2014.",
+        "task": "chart",
+        "type": "line",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "642106b008e9087902f5bf31",
+        "slug": "information/co/production/countries",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/42772f7d62944ccec977632b62fd2629.png",
+          "width": 480,
+          "height": 360
+        },
+        "question": "The table below gives the information about the co2 production released by give countries that produced the most in 2005 and 2006.",
+        "task": "chart",
+        "type": "table",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6417cc3008e9087902824d13",
+        "slug": "information/population/percentages/distribution/wealth/region",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/216e62577d84e1049eee490fe67dd7fd.png",
+          "width": 900,
+          "height": 900
+        },
+        "question": "The chart below gives information about global population percentages and distribution of wealth by region.",
+        "task": "chart",
+        "type": "bar",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "63d7893c08e90879026f2857",
+        "slug": "show/village/stokeford",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/f9e878a14ff1a2862cfbda862104b9d9.png",
+          "width": 648,
+          "height": 388
+        },
+        "question": "the map below show village of Stokeford in 1930 and in 2010",
+        "task": "chart",
+        "type": "multiple",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "63d0ecd908e9087902250a48",
+        "slug": "two/maps/show/island/construction/tourist/facilities",
+        "__v": 0,
+        "question": "The two maps below show an island, before and after the construction of some tourist facilities.",
+        "task": "chart",
+        "type": "maps",
+        "image": {
+          "url": "https://images.writing9.com/05e2e2a8c24b36cb825829ad2706bed1.png",
+          "width": 640,
+          "height": 594
+        },
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "642e35b008e90879029ac4f1",
+        "slug": "figures/imprisonment/five/countries/report/university/lecturer/information",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/7b213d30eef4ddcafe3d076b22d2fc8f.png",
+          "width": 583,
+          "height": 344
+        },
+        "question": "The chart below shows the figures for imprisonment in\r\n\r\nfive countries between 1930 and 1980. Write a report for\r\n\r\na university, lecturer describing the information shown\r\n\r\nbelow.",
+        "task": "chart",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "64f93cb008e9087902116bd1",
+        "slug": "bar/information/amount/consumer/goods",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/22f75f2759cd44f6736eac51e4d2be5a.png",
+          "width": 1040,
+          "height": 623
+        },
+        "question": "The bar chart give information about amount of spending on consumer goods.",
+        "task": "chart",
+        "type": "bar",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "651f783008e908790242810c",
+        "slug": "requests/information/tourists/office/kingdom/january/june",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/015975fc007fd6c85bd570ce638a2282.png",
+          "width": 994,
+          "height": 594
+        },
+        "question": "The chart shows requests for information at a tourists office in the United Kingdom from January to June",
+        "task": "chart",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "655d6eb04312c5c44b5e967a",
+        "slug": "maps/show/changes/city/castellon/times/summarise/information/features/comparisons",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/d33121df83071e57acc29a2c1b373d59.png",
+          "width": 728,
+          "height": 502
+        },
+        "question": "The maps below show changes in the city of Castellon  in recent times.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "task": "chart",
+        "type": "maps",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "650a603008e9087902eba99c",
+        "slug": "people/europe/noise/night/cities/areas",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/48b5f09d7e1a43d15c4e5ce13faab55c.png",
+          "width": 702,
+          "height": 755
+        },
+        "question": "The chart shows the number of people in Europe who were effected by 4 types of noise by day and by night in cities and in rural areas in 2007",
+        "task": "chart",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6434cd3008e9087902e62d8e",
+        "slug": "bar/percentage/peop/age/groups/internet/uk",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/bc746a820ab1704564a5b0805e088631.png",
+          "width": 474,
+          "height": 285
+        },
+        "question": "the bar chart describe the percentage of peop by age groups using internet in the UK\r\n\r\nfrom 2003 to 2006",
+        "task": "chart",
+        "type": "bar",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "656b53ac2b2bf900112f1029",
+        "verified": false,
+        "active": true,
+        "slug": "diagrams/show/process/plastics",
+        "question": "The diagrams below show the recycling process of plastics",
+        "task": "chart",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/8a753f3e993190a1ee20842b90bc5e95.png",
+          "width": 476,
+          "height": 413
+        },
+        "type": "unknown"
+      },
+      {
+        "_id": "652df8b008e90879021614a5",
+        "slug": "british/emigration/destinations/report/university/lecturer/information",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/f911208d253e3c035741e134bc9cea32.png",
+          "width": 564,
+          "height": 283
+        },
+        "question": "The chart shows British Emigration to selected destinations between 2004 and 2007.\r\n\r\nWrite a report for a university, lecturer describing the information shown below.",
+        "task": "chart",
+        "type": "bar",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6539d63008e9087902bbf1e9",
+        "slug": "information/cinema/attendance/australia/projections/summarise/features/comparisons",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/59f3674baebd8c1555f4f4c76e4d87d5.png",
+          "width": 640,
+          "height": 378
+        },
+        "question": "The graph below gives information about cinema attendance in Australia between 1990 and the present, with projections to 2010.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant",
+        "task": "chart",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "66116f85a92ed000116c7bbb",
+        "verified": false,
+        "active": true,
+        "slug": "instant/noodles/summarise/information/features/comparisons/relevent",
+        "question": "The diagram shows how instant noodles are manufactured. \r\n\r\nSummarise the information by selecting and reporting the main features and make comparisons where relevent.",
+        "task": "chart",
+        "__v": 0,
+        "image": {},
+        "type": "unknown"
+      },
+      {
+        "_id": "65a3fe8707eb1c0011bce7f7",
+        "verified": false,
+        "active": true,
+        "slug": "show/percentages/meals/three/nutrients/summarise/information/features/comparisons/sodium/fats/sugars/usa/breakfast/dinner/lunch/snacks/sugar",
+        "question": "The charts below show the average percentages in typical meals of three types of nutrients, all of which may be unhealthy if eaten too much.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.\r\n\r\nAverage percentages of sodium, saturated fats and added sugars in typical meals consumed in the USA\r\n\r\nSodium\r\n\r\n14% 14%\r\n\r\nSaturated fat\r\n\r\n21%\r\n\r\n16%\r\n\r\n29%\r\n\r\n26%\r\n\r\n43%\r\n\r\n37%\r\n\r\nBreakfast\r\n\r\nDinner\r\n\r\nLunch\r\n\r\nSnacks\r\n\r\nAdded sugar\r\n\r\n42%\r\n\r\n16%\r\n\r\n23%\r\n\r\n19%\r\n\r\n20",
+        "task": "chart",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/356c68621834ef628d405847d2061c9a.png",
+          "width": 734,
+          "height": 375
+        },
+        "type": "pie"
+      },
+      {
+        "_id": "63db273008e9087902a6d839",
+        "slug": "amount/healthcare/countries/information/features/comparison",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/9f5b84b0dd2cefd3013d8527ffdcf951.png",
+          "width": 384,
+          "height": 557
+        },
+        "question": "The table below shows the amount spent on healthcare in different countries.\r\n\r\nSummarize the information by selecting and reporting the main features and make comparison where relevant.",
+        "task": "chart",
+        "type": "table",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "65827231e5d1df00125a0cdf",
+        "verified": false,
+        "active": true,
+        "slug": "sources/air/pollutants/uk/sample/answers",
+        "question": "The graph below shows different sources of air pollutants in the UK Sample Answers",
+        "task": "chart",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/51548aadca50fffd273b55a294eafc23.png",
+          "width": 1024,
+          "height": 768
+        },
+        "type": "line"
+      },
+      {
+        "_id": "656a1d07b6098e00115ddba7",
+        "verified": false,
+        "active": true,
+        "slug": "information/hours/internet/european/people/age",
+        "question": "The table gives information about the average hours spent on the internet by European people of different age.",
+        "task": "chart",
+        "__v": 0,
+        "image": {},
+        "type": "table"
+      },
+      {
+        "_id": "63d0ed3308e9087902251615",
+        "slug": "bar/eight/activities/slovakia/month/summarise/information/features/comparisons",
+        "__v": 0,
+        "question": "The bar chart gives the top eight online activities in Slovakia in a given month.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where necessary.",
+        "task": "chart",
+        "type": "bar",
+        "image": {
+          "url": "https://images.writing9.com/5f3f1c73dcfc43d0f7c5af8441919a14.png",
+          "width": 603,
+          "height": 376
+        },
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "65b8336c2d0c430011eb43a1",
+        "verified": false,
+        "active": true,
+        "slug": "bar/distribution/youtube/users/january/age/group/information/features/comparisons/minutes",
+        "question": "The bar chart shows the distribution of YouTube users worldwide as of January 2023 by age group.\r\n\r\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.\r\n\r\nYou should spend about 20 minutes on this task.",
+        "task": "chart",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/0971542765a64e33eb98eb90dd00905a.png",
+          "width": 355,
+          "height": 253
+        },
+        "type": "bar"
+      },
+      {
+        "_id": "64cb183008e90879027feba9",
+        "slug": "percentage/women/unemployment/country/kingdom",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/8ddc36e36985a746f8142a51b76caf91.png",
+          "width": 570,
+          "height": 320
+        },
+        "question": "The given graph presents the percentage of women unemployment in each country of the United Kingdom in 2013 and 2014.",
+        "task": "chart",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "648bd03008e9087902042773",
+        "slug": "people/part/kinds/sports/region/summarise/information/features/comparisons",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/ad6b188f5975b039e2c30d047f7bd048.png",
+          "width": 705,
+          "height": 420
+        },
+        "question": "The graph shows the number of people taking part in 4 kinds of sports in a particular region between 1985 and 2005. Summarise the information by selecting and reporting the main features and make comparisons where relevant.",
+        "task": "chart",
+        "type": "line",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "66054c1c239dae001110b59e",
+        "verified": false,
+        "active": true,
+        "slug": "information/prices/bananas/four/countries",
+        "question": "the graph below gives information about the prices of bananas in four countries between 1994 and 2004",
+        "task": "chart",
+        "__v": 0,
+        "image": {},
+        "type": "unknown"
+      },
+      {
+        "_id": "63d0ed3b08e90879022516f1",
+        "slug": "distribution/insurance/policies",
+        "__v": 0,
+        "question": "The pie chart below shows the worldwide distribution of private insurance policies.",
+        "task": "chart",
+        "type": "multiple",
+        "image": {
+          "url": "https://images.writing9.com/54b744cd0ac9005433bc41410a1df15e.png",
+          "width": 1024,
+          "height": 539
+        },
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "646c2c3008e90879027912d8",
+        "slug": "shops/shop/country",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/1b3490df0bfc8d5bfdc449c24956f621.png",
+          "width": 804,
+          "height": 551
+        },
+        "question": "The graph below shows the number of shops that closed and the number of new shop that opened in one country between 2011 and 2018.",
+        "task": "chart",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "64a8d13008e9087902abdc65",
+        "slug": "percentage/terms/patterns/access/technology/homes/uk",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/4a990cb4e0a60ee42691cbe1be150343.png",
+          "width": 400,
+          "height": 221
+        },
+        "question": "The graph below shows in percentage terms the changing patterns of domestic access to modern technology in homes in the UK.",
+        "task": "chart",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6539d63008e9087902bbf208",
+        "slug": "percentage/members/parliament/european/countries/information/features/comparisons",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/864c6e012f48e42210275671d194db60.png",
+          "width": 813,
+          "height": 435
+        },
+        "question": "The chart below shows the percentage of female members of parliament in 5 European countries from 2000 to 2012. Summarize the information by selecting and reporting the main features and make comparisons where relevant.",
+        "task": "chart",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6459b73008e90879028fbe1a",
+        "slug": "people/tokyo/japan/music/month/record/company/findings/information/features/comparisons",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/e596c97a68e53b3796dc697df60322af.png",
+          "width": 728,
+          "height": 407
+        },
+        "question": "The table below shows how young people in Tokyo, Japan, listened to music over the previous month. The pie chart shows a record company's international findings about whether people preferred live or recorded music.\r\n\r\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "task": "chart",
+        "type": "multiple",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "66126953a92ed000116c7ddb",
+        "verified": false,
+        "active": true,
+        "slug": "households/income/information/features",
+        "question": "The chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015.\r\n\r\nSummarize the information by selecting and reporting the main features.",
+        "task": "chart",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/d70f47155ee809e5f122b6cff6e5746c.png",
+          "width": 512,
+          "height": 337
+        },
+        "type": "bar"
+      },
+      {
+        "_id": "63d78b3208e90879026f4df1",
+        "slug": "show/amount/money/kazakh/charity/organization/information/features/comparisons",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/13d45d3b0ba292ff41147073e8ba39ef.png",
+          "width": 864,
+          "height": 469
+        },
+        "question": "The pie charts show the amount of money that a Kazakh charity\r\n\r\norganization spent and received in 2019.\r\n\r\nSummarize the information by selecting and reporting the main\r\n\r\nfeatures and make comparisons where relevant.",
+        "task": "chart",
+        "type": "pie",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "65139ab008e908790275799f",
+        "slug": "bar/numbers/three/visitors/museum/summarise/information/features/comparisons",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/db401578c9d89b5ef6be0759e416386a.png",
+          "width": 712,
+          "height": 534
+        },
+        "question": "The bar chart below shows the numbers of three types of visitors to a museum between 1997 and 2012. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "task": "chart",
+        "type": "bar",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "65d1b30c434b9c00122fbf8b",
+        "verified": false,
+        "active": true,
+        "slug": "shops/numer/coutry",
+        "question": "The graph below shows the number of shops that closed and the numer of new shops that opened in one coutry between 2011 and 2018.",
+        "task": "chart",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/6358941bec93b18fd5a7531de06039b9.png",
+          "width": 804,
+          "height": 551
+        },
+        "type": "line"
+      },
+      {
+        "_id": "63d797e708e908790270e77b",
+        "slug": "diagrams/change/college/campus/second/future",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/c5370a0bbb5e10b7062ad694c291c02a.png",
+          "width": 900,
+          "height": 750
+        },
+        "question": "The diagrams below shows the change in a particular college campus from 1975 to 2020. The second map indicates the proposed future change about this campus.",
+        "task": "chart",
+        "type": "multiple",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "65f85bf0d33bac0011fe0d33",
+        "verified": false,
+        "active": true,
+        "slug": "graphs/show/expenditure/household/australia/france",
+        "question": "The graphs show the monthly expenditure of an average household in Australia and France.",
+        "task": "chart",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/123ffa6d98438d9d6296111190d04c3c.png",
+          "width": 551,
+          "height": 331
+        },
+        "type": "pie"
+      },
+      {
+        "_id": "65df3f1a39714a001162b5d5",
+        "verified": false,
+        "active": true,
+        "slug": "two/maps/show/floor/plans/redevelopment/art/gallery",
+        "question": "The two maps below show existing and proposed floor plans for the redevelopment of an art gallery.",
+        "task": "chart",
+        "__v": 0,
+        "image": {},
+        "type": "maps"
+      },
+      {
+        "_id": "63d0ecd608e90879022509dc",
+        "slug": "information/changes/birth/death/rates/zealand/summarise/features/comparisons",
+        "__v": 0,
+        "question": "The graph below gives information about changes in the birth and death rates in New Zealand between 1901 and 2101.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "task": "chart",
+        "type": "unknown",
+        "image": {
+          "url": "https://images.writing9.com/f825c996114d2f7746e0456d75bde566.png",
+          "width": 905,
+          "height": 593
+        },
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "656730d5dbbe2a00113f1800",
+        "verified": false,
+        "active": true,
+        "slug": "percentage/people/canada/finland/korea",
+        "question": "The graph shows the percentage of people aged over 60 in Canada,Finland and Korea between 1950 and 2050.",
+        "task": "chart",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/817b95d548d64bd22966685668bfe435.png",
+          "width": 320,
+          "height": 453
+        },
+        "type": "line"
+      },
+      {
+        "_id": "64cb183008e90879027fec6a",
+        "slug": "minutes/components/gdp/uk/information/features/comparisons",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/d7915e6b1eb19f3f051b7174b55fea15.png",
+          "width": 639,
+          "height": 489
+        },
+        "question": "You should spend about 20 minutes on this task.\r\n\r\nThe chart shows components of GDP in the UK from 1992 to 2000.\r\n\r\nSummarize the information by selecting and reporting the main features and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "task": "chart",
+        "type": "unknown",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "64d452b008e9087902ffad7f",
+        "slug": "two/comparison/kinds/energy/production/france/years",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/451424d94ca8eaa71a382bc6bc3e8f1e.png",
+          "width": 768,
+          "height": 465
+        },
+        "question": "The two pie charts below shows the comparison of different kinds of energy production of France in two years .",
+        "task": "chart",
+        "type": "pie",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "644b36b008e9087902e19f35",
+        "slug": "show/research/students/australian/universities",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/867325d4dce2a5401e731ae8a0b712da.png",
+          "width": 574,
+          "height": 515
+        },
+        "question": "The table and pie chart show the number of research students in Australian universities in 2001 and 2010.",
+        "task": "chart",
+        "type": "multiple",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6428efb008e9087902598e4d",
+        "slug": "maps/show/future/plan/biology/school/university",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/318783791483440454e3504514ea84a1.png",
+          "width": 728,
+          "height": 517
+        },
+        "question": "The maps below show the future plan about the Biology school in a particular university.",
+        "task": "chart",
+        "type": "maps",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "652b55b008e9087902ef38b5",
+        "slug": "numbers/hospitals/australian/states/year/percentage",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/fb9f42d14a51d6e1510d8ff843bcd324.png",
+          "width": 1240,
+          "height": 1002
+        },
+        "question": "The table below shows the numbers of same day and overnight stays in public and private hospitals in 5 Australian states for last year.The pie chart below shows percentage of same day and overnight stays in public and private hospitals in the same 5 Australian states.",
+        "task": "chart",
+        "type": "multiple",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "64fa8e3008e908790223b650",
+        "slug": "proportion/population/three/countries/contrast/slump",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/7b188bb6bece9a896c0c420c8a86f9f0.png",
+          "width": 700,
+          "height": 421
+        },
+        "question": "The graph shows the proportion of the population aged 65 and over between 1940 and 2040 in three different countries \r\n\r\nobserved لاحظ\r\n\r\napproximately تقريبي\r\n\r\n. In contrast, في المقابل\r\n\r\nremained under 5%.\r\n\r\nanticipated متوقع\r\n\r\nslump ركود\r\n\r\nexpected\r\n\r\nrespectively",
+        "task": "chart",
+        "type": "line",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "63d0ed3e08e9087902251743",
+        "slug": "bar/amounts/generation/usage/ten/nations",
+        "__v": 0,
+        "question": "The bar chart illustrates the amounts of electrical generation and electrical usage in 2014 in ten nations.",
+        "task": "chart",
+        "type": "bar",
+        "image": {
+          "url": "https://images.writing9.com/b04b71d851191651d780eccf512c2758.png",
+          "width": 572,
+          "height": 564
+        },
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "652a043008e9087902e0c3ad",
+        "slug": "percentage/car/ownership/three/countries/information/report/features/comparison",
+        "__v": 0,
+        "image": {
+          "url": "https://images.writing9.com/59ae730eb466c6c4a64a0f76dc8a7879.png",
+          "width": 800,
+          "height": 800
+        },
+        "question": "The pie chart shows the percentage of car ownership by make in three countries in 2015.\r\n\r\nSummarize the information by select and report the main features, make comparison where relevant.",
+        "task": "chart",
+        "type": "pie",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "6556d7304312c5c44bba59bf",
+        "slug": "information/transport/people/car/edmonton",
+        "__v": 0,
+        "image": {},
+        "question": "The pie chart and table below give information on transport and people's reasons for using the car in Edmonton.",
+        "task": "chart",
+        "type": "multiple",
+        "verified": false,
+        "active": true
+      },
+      {
+        "_id": "63d0ecdc08e9087902250ab3",
+        "slug": "expenses/categories/american/citizens/summarise/information/features/comparisons",
+        "__v": 0,
+        "question": "The given pie charts compare the expenses in 7 different categories in 1966 and 1996 by American Citizens.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "task": "chart",
+        "type": "pie",
+        "image": {
+          "url": "https://images.writing9.com/949788396544c664ea9e694c010b7e5e.png",
+          "width": 311,
+          "height": 325
+        },
+        "verified": false,
+        "active": true
+      }
+    ]
+  },
+  "__N_SSG": true
+}
