@@ -2,7 +2,7 @@ var express = require("express");
 // var logger = require('morgan');
 var dotenv = require("dotenv");
 dotenv.config();
-var PORT = 4040;
+var PORT = 9442;
 var MONGODB_URL = `mongodb+srv://vanani:Vanani9442@cluster0.qvuuv.mongodb.net/ielts_writing`; // DB connection
 var DeviceInfoModel = require("./Model/DeviceInfoModel");
 var FCM = require("fcm-node");
